@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/engrceey?tab=repositories](https://github.com/engrceey?tab=repositories)
 
-- 💬 Ask me about **Java, Software Best Practices**
+- 💬 Ask me about **Java and Software Best Practices**
 
 - 📫 How to reach me **ogbondachristian@gmail.com**
 
