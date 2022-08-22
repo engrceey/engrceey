@@ -8,7 +8,8 @@
 
 - 💬 Ask me about **Java and Software Best Practices**
 
-- 📫 How to reach me **ogbondachristian@gmail.com**
+- 📫 How to reach me mail: **ogbondachristian@gmail.com**
+                     LinkedIn: **https://www.linkedin.com/in/zurum-ogbonda**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
