@@ -1,8 +1,8 @@
 <h2 align="center">Hi, I'm Zurum Ogbonda C.</h2>
-<h3 align="center">Backend Developer/ Software Development Researcher</h3>
+<h3 align="center">Backend Developer and Research Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engrceey&label=Profile%20views&color=0e75b6&style=flat" alt="engrceey" /> </p>
-<p> <b>JAVA❤️</b>  is Not Just a Language is a <b>LifeStyle😇</b>..... </>
+<p> <b>JAVA❤️</b>  is Not Just a Language is a <b>Way of Life😇</b>..... </>
 
 - 👨‍💻 All of my projects are available at [https://github.com/engrceey?tab=repositories](https://github.com/engrceey?tab=repositories)
 
